@@ -43,7 +43,6 @@ CTestTestfile.cmake
 _deps/
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
