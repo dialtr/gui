@@ -16,6 +16,8 @@ add_executable(BasicGuiApp
     src/MyApp.h
     src/MainFrame.cpp
     src/MainFrame.h
+    src/Project.cpp
+    src/Project.h
 )
 
 # Link wxWidgets libraries
